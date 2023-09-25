@@ -132,8 +132,8 @@ header {
 .profile-photo {
   width: 200px;
   height: 200px;
-  max-width: 500px;
-  max-height: 500px;
+  max-width: 200px;
+  max-height: 200px;
   margin: 0 auto;
 }
 .fit {
@@ -142,6 +142,38 @@ header {
   min-height: 100%;
   border-radius: 50%;
 }
+
+/* #FOURTH */
+#fourth {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-bottom: 50px;
+  background-color: var(--color-primary-color);
+}
+#fourth .card {
+  padding: 20px;
+  background-color: var(--color-light-color);
+  border-radius: 15px;
+}
+
+/* #FIFTH */
+#fifth {
+  margin-bottom: 50px;
+}
+.about-us {
+  width: 200px;
+  height: 200px;
+  max-width: 200px;
+  max-height: 200px;
+  margin-bottom: 50px;
+}
+.fit-us {
+  object-fit: cover;
+  max-width: 100%;
+  min-height: 100%;
+  border-radius: 50%;
+}
+
 /* FOOTER */
 
 /* MEDIA QUERY */
