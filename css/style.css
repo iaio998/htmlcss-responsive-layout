@@ -1,0 +1,24 @@
+/* GENERAL */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "PT Sans", sans-serif;
+}
+
+ul {
+  list-style: none;
+}
+/* HEADER */
+
+/* MAIN */
+
+/* FOOTER */
+
+/* MEDIA QUERY */
+@media screen and (min-width: 576px) {
+}
+@media screen and (min-width: 992px) {
+}
+@media screen and (min-width: 1200px) {
+}
