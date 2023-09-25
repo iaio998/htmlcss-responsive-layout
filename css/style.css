@@ -100,6 +100,8 @@ header {
   background-color: var(--color-primary-color);
   line-height: 2;
   font-weight: 600;
+  margin-bottom: 50px;
+  padding-bottom: 50px;
 }
 #second .img-fluid {
   padding: 25px 50px;
@@ -114,6 +116,31 @@ header {
   font-style: italic;
   font-size: 1.2em;
   font-weight: 500;
+}
+
+/* #THIRD */
+#third {
+  margin-bottom: 50px;
+}
+#third .card {
+  padding: 30px;
+  text-align: center;
+  border-radius: 55px;
+  background-color: var(--color-primary-color);
+  line-height: 2;
+}
+.profile-photo {
+  width: 200px;
+  height: 200px;
+  max-width: 500px;
+  max-height: 500px;
+  margin: 0 auto;
+}
+.fit {
+  object-fit: cover;
+  max-width: 100%;
+  min-height: 100%;
+  border-radius: 50%;
 }
 /* FOOTER */
 
